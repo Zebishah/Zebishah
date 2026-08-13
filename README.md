@@ -19,8 +19,39 @@
 ## About Me
 
 <div align="center">
-<img src="./assets/about-terminal.svg" width="720" alt="About Zohaib" />
+
+![Location](https://img.shields.io/badge/📍_Location-Islamabad,_Pakistan-1f2937?style=for-the-badge)
+![Experience](https://img.shields.io/badge/💼_Experience-2%2B_Years-1f2937?style=for-the-badge)
+![Shipped](https://img.shields.io/badge/🚀_Shipped-12%2B_Commercial_Apps-1f2937?style=for-the-badge)
+![Learning](https://img.shields.io/badge/🧠_Learning-Python_%7C_FastAPI_%7C_RAG-1f2937?style=for-the-badge)
+
 </div>
+
+<br/>
+
+```javascript
+const zohaib = {
+  role: "Full Stack Software Engineer",
+  experience: "2+ years",
+  location: "Islamabad, Pakistan",
+
+  stack: [
+    "React", "Next.js", "TypeScript",
+    "Node.js", "NestJS", "PostgreSQL"
+  ],
+
+  focus: [
+    "Payments", "Background Jobs",
+    "Multi-Tenant SaaS", "AI Integrations"
+  ],
+
+  currentlyLearning: ["Python", "FastAPI", "RAG / AI backend"],
+
+  shipped: "12+ commercial apps across SaaS, fintech & HR tech",
+
+  philosophy: "No feature ships untested."
+};
+```
 
 <br/>
 
