@@ -18,19 +18,13 @@
 
 ## About Me
 
-```txt
-const zohaib = {
-  role: "Full Stack Software Engineer",
-  experience: "2+ years",
-  location: "Islamabad, Pakistan",
-  stack: ["React", "Next.js", "TypeScript", "Node.js", "NestJS", "PostgreSQL"],
-  focus: ["Payments", "Background Jobs", "Multi-Tenant SaaS", "AI Integrations"],
-  currentlyLearning: ["Python", "FastAPI", "RAG / AI backend engineering"],
-  shipped: "12+ commercial apps across SaaS, fintech, healthcare & HR tech"
-};
-```
+<div align="center">
+<img src="./assets/about-terminal.svg" width="720" alt="About Zohaib" />
+</div>
 
-I'm a Full Stack Engineer working primarily in the JavaScript/TypeScript ecosystem — React & Next.js on the frontend, Node.js/Express/NestJS on the backend. I've shipped production features covering payments, multi-tenant architecture, background job processing, and third-party integrations (SOAP, REST, webhooks) for real client businesses.
+<br/>
+
+> I'm a Full Stack Engineer working primarily in the JavaScript/TypeScript ecosystem — React & Next.js on the frontend, Node.js/Express/NestJS on the backend. I've shipped production features covering payments, multi-tenant architecture, background job processing, and third-party integrations (SOAP, REST, webhooks) for real client businesses.
 
 <br/>
 
@@ -79,11 +73,73 @@ I'm a Full Stack Engineer working primarily in the JavaScript/TypeScript ecosyst
 </tr>
 </table>
 
-**Payments & Business Systems:** Stripe · Stripe Subscriptions · Stripe Webhooks · PayPal · QuickBooks · Zoho Books
-**Auth & Access:** JWT · Refresh Tokens · OAuth · Passport.js · RBAC · Multi-Tenant Access Control
-**Background Processing:** BullMQ · Redis Queues · Cron Jobs · Retry/Backoff · Idempotent Jobs
-**APIs & Realtime:** REST · GraphQL · WebSockets · Socket.io · SOAP · Webhooks · Swagger/OpenAPI
-**Monitoring (exposure):** Prometheus · Grafana · Loki
+### Domain Skills
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**💳 Payments & Billing**
+<br/><br/>
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Subscriptions](https://img.shields.io/badge/Subscriptions-635BFF?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-635BFF?style=flat-square)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)
+![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=flat-square&logo=quickbooks&logoColor=white)
+![Zoho Books](https://img.shields.io/badge/Zoho%20Books-C8202F?style=flat-square&logo=zoho&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**🔐 Auth & Access**
+<br/><br/>
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Refresh Tokens](https://img.shields.io/badge/Refresh%20Tokens-1f2937?style=flat-square)
+![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=flat-square)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-1f2937?style=flat-square)
+![Multi--Tenant](https://img.shields.io/badge/Multi--Tenant%20Access-1f2937?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**⚙️ Background Processing**
+<br/><br/>
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square)
+![Redis Queues](https://img.shields.io/badge/Redis%20Queues-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Cron Jobs](https://img.shields.io/badge/Cron%20Jobs-1f2937?style=flat-square)
+![Retry/Backoff](https://img.shields.io/badge/Retry%2FBackoff-1f2937?style=flat-square)
+![Idempotent Jobs](https://img.shields.io/badge/Idempotent%20Jobs-1f2937?style=flat-square)
+
+</td>
+<td valign="top" width="50%">
+
+**🔌 APIs & Realtime**
+<br/><br/>
+![REST](https://img.shields.io/badge/REST-1f2937?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-1f2937?style=flat-square)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-1f2937?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-1f2937?style=flat-square)
+![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**📊 Monitoring (exposure)**
+<br/><br/>
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-1f2937?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
