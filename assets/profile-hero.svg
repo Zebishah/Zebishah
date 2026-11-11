@@ -4,7 +4,7 @@
 <circle cx="1006" cy="162" r="99" fill="none" stroke="#D7EFA2" stroke-opacity=".24"/>
 <path d="M810 266L893 190L964 214L1032 115L1114 153L1164 87" fill="none" stroke="#9DD18A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 <g fill="#C8DB76"><circle cx="893" cy="190" r="6"/><circle cx="964" cy="214" r="6"/><circle cx="1032" cy="115" r="6"/><circle cx="1114" cy="153" r="6"/></g>
-<rect x="910" y="80" width="168" height="48" rx="12" fill="#153C2D" stroke="#9BC68D" stroke-opacity=".55"/><text x="927" y="109" fill="#DDF0AA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" >&amp;lt; BUILD / AI &amp;gt;</text>
+<rect x="910" y="80" width="168" height="48" rx="12" fill="#153C2D" stroke="#9BC68D" stroke-opacity=".55"/><text x="927" y="109" fill="#DDF0AA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" >&lt; BUILD / AI &gt;</text>
 <rect x="800" y="245" width="246" height="45" rx="12" fill="#123629" stroke="#9BC68D" stroke-opacity=".5"/><text x="823" y="273" fill="#E9F2DB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" >SYSTEMS THAT SHIP</text>
 <text x="62" y="58" fill="#C7DB87" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="750" letter-spacing="4">ZOHAIB HAIDER</text>
 <rect x="62" y="77" width="69" height="4" rx="2" fill="#C8DB76"/>
