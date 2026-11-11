@@ -1,310 +1,165 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Zohaib%20Haider&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=20&descColor=94a3b8" />
+<img width="100%" alt="Zohaib Haider — Full-Stack & AI Software Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:082f24,55:12533d,100:64834e&height=205&section=header&text=Zohaib%20Haider&fontSize=50&fontColor=f8f4eb&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Systems&descAlignY=59&descSize=19&descColor=d8e7b5" />
 
-<a href="https://zohaib-haider-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+production+SaaS+with+React+%26+Node.js;Payments+%E2%80%A2+Background+Jobs+%E2%80%A2+Multi-Tenant+Systems;2%2B+years+shipping+across+12%2B+commercial+apps" alt="Typing SVG" />
-</a>
+### Engineering scalable software. Building intelligent systems.
+
+**Modern web experiences · Reliable backend architecture · Payments & integrations · Agentic AI**
+
+I build end-to-end digital products—from polished React interfaces and secure APIs to distributed workflows, payment systems, and evidence-grounded AI applications.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0f172a)](https://zohaib-haider-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohaib-haider-390530228/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zebihaider123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Explore_Portfolio-0B4D35?style=for-the-badge&logo=vercel&logoColor=white)](https://zohaib-haider-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-126B50?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohaib-haider-390530228/)
+[![Email](https://img.shields.io/badge/Let's_Talk-315F42?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zebihaider123@gmail.com)
+
+<img src="https://img.shields.io/badge/2%2B_Years-Software_Engineering-173F30?style=flat-square" alt="2+ years engineering experience" />
+<img src="https://img.shields.io/badge/12%2B-Production_Applications-173F30?style=flat-square" alt="12+ production applications" />
+<img src="https://img.shields.io/badge/4-Featured_Engineering_Projects-173F30?style=flat-square" alt="4 featured projects" />
 
 </div>
 
-<br/>
+---
 
-## About Me
+## About me
 
-<div align="center">
+I'm a **Full-Stack Software Engineer expanding into applied AI**, with **2+ years of experience** contributing to **12+ production applications** across SaaS, marketplaces, finance, CRM, and business operations.
 
-![Location](https://img.shields.io/badge/📍_Location-Islamabad,_Pakistan-1f2937?style=for-the-badge)
-![Experience](https://img.shields.io/badge/💼_Experience-2%2B_Years-1f2937?style=for-the-badge)
-![Shipped](https://img.shields.io/badge/🚀_Shipped-12%2B_Commercial_Apps-1f2937?style=for-the-badge)
-![Learning](https://img.shields.io/badge/🧠_Learning-Python_%7C_FastAPI_%7C_RAG-1f2937?style=for-the-badge)
+I work across the product lifecycle: **responsive frontend development, backend and API architecture, authentication and authorization, databases, real-time systems, payment and third-party integrations, automated testing, CI/CD, and cloud deployment**. My AI work includes **RAG, LangChain, LangGraph agents, tool calling, MCP, human-in-the-loop approvals, LLM evaluation, voice input, and LoRA/QLoRA fine-tuning workflows**.
 
-</div>
+> **What I optimize for:** useful products, clean interfaces, secure data access, observable workflows, and systems that recover gracefully when something fails.
 
-<br/>
+## Featured engineering projects
 
-```javascript
-const zohaib = {
-  role: "Full Stack Software Engineer",
-  experience: "2+ years",
-  location: "Islamabad, Pakistan",
-
-  stack: [
-    "React", "Next.js", "TypeScript",
-    "Node.js", "NestJS", "PostgreSQL"
-  ],
-
-  focus: [
-    "Payments", "Background Jobs",
-    "Multi-Tenant SaaS", "AI Integrations"
-  ],
-
-  currentlyLearning: ["Python", "FastAPI", "RAG / AI backend"],
-
-  shipped: "12+ commercial apps across SaaS, fintech & HR tech",
-
-  philosophy: "No feature ships untested."
-};
-```
-
-<br/>
-
-> I'm a Full Stack Engineer working primarily in the JavaScript/TypeScript ecosystem — React & Next.js on the frontend, Node.js/Express/NestJS on the backend. I've shipped production features covering payments, multi-tenant architecture, background job processing, and third-party integrations (SOAP, REST, webhooks) for real client businesses.
-
-<br/>
-
-## Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,py,fastapi" />
-
-</td>
-<td valign="top" width="50%">
-
-**Database & Cache**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase" />
-
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,vercel,kubernetes" />
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**Testing**
-<br/>
-<img src="https://skillicons.dev/icons?i=jest,cypress,playwright" />
-
-</td>
-<td valign="top" width="50%">
-
-**Tools & Integrations**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
-
-</td>
-</tr>
-</table>
-
-### Domain Skills
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**💳 Payments & Billing**
-<br/><br/>
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Subscriptions](https://img.shields.io/badge/Subscriptions-635BFF?style=flat-square)
-![Webhooks](https://img.shields.io/badge/Webhooks-635BFF?style=flat-square)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)
-![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=flat-square&logo=quickbooks&logoColor=white)
-![Zoho Books](https://img.shields.io/badge/Zoho%20Books-C8202F?style=flat-square&logo=zoho&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**🔐 Auth & Access**
-<br/><br/>
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Refresh Tokens](https://img.shields.io/badge/Refresh%20Tokens-1f2937?style=flat-square)
-![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=flat-square)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-1f2937?style=flat-square)
-![Multi--Tenant](https://img.shields.io/badge/Multi--Tenant%20Access-1f2937?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**⚙️ Background Processing**
-<br/><br/>
-![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square)
-![Redis Queues](https://img.shields.io/badge/Redis%20Queues-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Cron Jobs](https://img.shields.io/badge/Cron%20Jobs-1f2937?style=flat-square)
-![Retry/Backoff](https://img.shields.io/badge/Retry%2FBackoff-1f2937?style=flat-square)
-![Idempotent Jobs](https://img.shields.io/badge/Idempotent%20Jobs-1f2937?style=flat-square)
-
-</td>
-<td valign="top" width="50%">
-
-**🔌 APIs & Realtime**
-<br/><br/>
-![REST](https://img.shields.io/badge/REST-1f2937?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-1f2937?style=flat-square)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-1f2937?style=flat-square)
-![Webhooks](https://img.shields.io/badge/Webhooks-1f2937?style=flat-square)
-![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**📊 Monitoring (exposure)**
-<br/><br/>
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-1f2937?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Engineering Focus
+Four end-to-end platforms that show my work across **product engineering, distributed systems, real-world integrations, and AI**.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**💳 Payments & Billing**
-Stripe subscriptions, delayed/off-session charging, 3DS handling, refund & payout reconciliation, PayPal integration, webhook-driven state sync
+### [TraceOps](https://github.com/Zebishah/TraceOps)
+**AI Incident Investigation & Automation**
 
-**⚙️ Background Processing**
-BullMQ/Redis queues, idempotent job design, retry & backoff strategies, scheduled and delayed work
+A multi-tenant incident investigation platform with **LangGraph agents**, organization-scoped **RAG**, cited evidence, authorized operational tools, and **human approval before sensitive actions**. Includes incident memory, durable background workflows, **MCP/OAuth**, voice input, evaluation, and optional **Qwen LoRA/QLoRA classifier fine-tuning**.
+
+**Stack:** Python · FastAPI · React · TypeScript · LangGraph · LangChain · Qdrant · PostgreSQL · Redis · Inngest · n8n · MCP · PyTorch
+
+[**Source code**](https://github.com/Zebishah/TraceOps) · [**Live demo**](https://trace-ops-pearl.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-**🏢 Multi-Tenant Systems**
-Tenant isolation, row-level security patterns, role-based access control, subscription-gated features
+### [DrivePilot](https://github.com/Zebishah/DrivePilot)
+**Driving Instructor Marketplace & Payments**
 
-**🔌 Integrations & Reliability**
-SOAP APIs, QuickBooks/Zoho Books sync, AI (Gemini) classification, reconciliation for distributed failures, webhook deduplication
+A role-based marketplace for **students, instructors, and administrators**, with instructor discovery, scheduling, booking, real-time chat, learning progress, and reviews. Built **Stripe Connect** payment flows with delayed/off-session charging, payouts, refunds, idempotent webhooks, booking consistency, and reconciliation.
 
-</td>
-</tr>
-</table>
+**Stack:** React · TypeScript · Node.js · Express · GraphQL · Apollo · MongoDB · Redis · Socket.IO · Stripe Connect · AWS S3
 
-<br/>
+[**Source code**](https://github.com/Zebishah/DrivePilot) · [**Live demo**](https://drive-pilot-topaz.vercel.app/)
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🚕 TaskFlow</h3>
-<i>Personal project — public repo</i>
-<br/><br/>
-Production-style project management SaaS. NestJS + PostgreSQL + Drizzle monorepo with JWT refresh-token rotation, workspace/role-based access control, and a React + Vite frontend.
-<br/><br/>
-<code>NestJS</code> <code>PostgreSQL</code> <code>Drizzle</code> <code>React</code> <code>Vite</code>
-<br/><br/>
-<a href="https://github.com/Zebishah/taskflow">View Repository →</a>
-</td>
-<td width="50%" valign="top">
-<h3>🚗 Driving School Platform</h3>
-<i>Client project — case study</i>
-<br/><br/>
-Multi-role booking marketplace. Built the T-48 delayed-charging payment system, off-session/3DS handling, refund & payout workflows, and slot-locking logic to prevent double bookings.
-<br/><br/>
-<code>React</code> <code>GraphQL</code> <code>MongoDB</code> <code>Stripe</code>
-<br/><br/>
-<a href="https://zohaib-haider-portfolio.vercel.app/">View Case Study →</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>⛽ CardLock</h3>
-<i>Client project — case study</i>
-<br/><br/>
-Enterprise fuel-card management platform. Integrated WEX SOAP APIs and QuickBooks OAuth, built role-based admin/customer portals and S3 pre-signed file delivery.
-<br/><br/>
-<code>React</code> <code>Express</code> <code>PostgreSQL</code> <code>SOAP</code>
-<br/><br/>
-<a href="https://zohaib-haider-portfolio.vercel.app/">View Case Study →</a>
+
+### [DealerFlow](https://github.com/Zebishah/DealerFlow)
+**Dealership CRM & Vehicle Intelligence**
+
+A multi-role dealership platform covering **leads, appointments, sales, finance, commissions, employee permissions, and performance analytics**. Combines normalized multi-source vehicle acquisition with a grounded AI assistant. Current acquisition uses **on-demand Apify Actors**; prior **AWS SQS/Lambda and BullMQ** pipeline implementations remain documented.
+
+**Stack:** React · TypeScript · Node.js · Express · PostgreSQL · Drizzle · Redis · Apify · Playwright · Gemini/Groq · AWS S3
+
+[**Source code**](https://github.com/Zebishah/DealerFlow) · [**Live demo**](https://dealer-flow-kappa.vercel.app/)
+
 </td>
 <td width="50%" valign="top">
-<h3>🤖 HR Intelligence</h3>
-<i>Client project — case study</i>
-<br/><br/>
-AI-powered Intercom HR platform. Built the webhook → queue → AI classification pipeline for HR case triage inside Intercom's Canvas app.
-<br/><br/>
-<code>Node.js</code> <code>BullMQ</code> <code>Gemini</code> <code>Redis</code>
-<br/><br/>
-<a href="https://zohaib-haider-portfolio.vercel.app/">View Case Study →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🏥 PDE</h3>
-<i>Client project — case study</i>
-<br/><br/>
-Multi-tenant clinic compliance SaaS. Implemented row-level tenant isolation, Stripe subscription billing, and compliance scoring workflows.
-<br/><br/>
-<code>React</code> <code>Express</code> <code>Supabase</code> <code>Stripe</code>
-<br/><br/>
-<a href="https://zohaib-haider-portfolio.vercel.app/">View Case Study →</a>
-</td>
-<td width="50%" valign="top">
-<h3>💰 Daizer</h3>
-<i>Client project — case study</i>
-<br/><br/>
-B2B wallet, catalog & order platform. Built idempotent PayPal wallet top-ups and Zoho Books reconciliation for distributed sync failures.
-<br/><br/>
-<code>React</code> <code>Node.js</code> <code>PayPal</code> <code>Zoho Books</code>
-<br/><br/>
-<a href="https://zohaib-haider-portfolio.vercel.app/">View Case Study →</a>
+
+### [CaseLens](https://github.com/Zebishah/CaseLens)
+**Intercom HR Case Intelligence**
+
+An AI-assisted HR case workflow embedded in **Intercom Canvas Kit**. Integrates **Gemini-powered classification**, employee identity matching with PostgreSQL trigram search, related-case retrieval, contextual insights, tagging, and stakeholder routing. Uses signed webhooks, durable dispatch, and **on-demand Apify processing**, with BullMQ/Redis supported as an alternative.
+
+**Stack:** Next.js · React · TypeScript · Node.js · Express · PostgreSQL · Drizzle · Redis · Gemini · Intercom · Box · Apify · BullMQ
+
+[**Source code**](https://github.com/Zebishah/CaseLens) · [**Live demo**](https://case-lens-amber.vercel.app/)
+
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-**Full breakdown of every project → [Portfolio](https://zohaib-haider-portfolio.vercel.app/)**
+**Explore the architecture, product walkthroughs, and complete case studies on my [portfolio](https://zohaib-haider-portfolio.vercel.app/).**
 
 </div>
 
-<br/>
+---
 
-## GitHub Stats
+## Technology stack
+
+| Area | Technologies & practices |
+| :--- | :--- |
+| **Frontend engineering** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, shadcn/ui, Redux Toolkit, Zustand, TanStack Query, responsive UI |
+| **Backend & APIs** | Node.js, Express, NestJS, Python, FastAPI, REST, GraphQL, Apollo, WebSockets, Socket.IO, webhooks |
+| **Data & persistence** | PostgreSQL, MongoDB, Redis, Drizzle ORM, SQLAlchemy, Mongoose, Supabase, Qdrant, database migrations |
+| **AI & LLM systems** | RAG, embeddings, reranking, LangChain, LangGraph, agents, tool calling, MCP, human-in-the-loop, evaluations, structured outputs, LoRA/QLoRA, PyTorch, Hugging Face |
+| **Async & reliability** | BullMQ, AWS SQS/Lambda, Inngest, n8n, Apify Actors, idempotency, retries/backoff, transactional outbox, reconciliation |
+| **Payments & integrations** | Stripe Connect, PayPal, QuickBooks, Zoho Books, Intercom, Box, OAuth 2.0, third-party APIs |
+| **Cloud & delivery** | AWS (EC2, S3, Lambda, SQS, IAM), Docker, Nginx, Vercel, Render, GitHub Actions, CI/CD, Linux |
+| **Testing & quality** | Jest, Vitest, React Testing Library, pytest, Playwright, Cypress, type checking, linting, integration and E2E testing |
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zebishah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zebishah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zebishah&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,nestjs,py,fastapi,postgres,mongodb,redis,graphql,docker,aws,githubactions&perline=8" alt="Core development technology icons" />
 
 </div>
 
-<br/>
+## What I build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Full-stack products**  
+User-centered interfaces, role-specific dashboards, multi-tenant APIs, robust authentication, real-time collaboration, and full product delivery.
+
+**Payments & business integrations**  
+Checkout, subscription and connected-account workflows, off-session payments, third-party APIs, webhook reconciliation, and resilient financial operations.
+
+</td>
+<td width="50%" valign="top">
+
+**Applied AI systems**  
+RAG-powered knowledge access, agent workflows, scoped tools, human approval gates, model evaluation, voice interfaces, and fine-tuning experiments.
+
+**Reliable infrastructure**  
+Background processing, queues, retries, idempotency, durable delivery, caching, cloud deployments, CI/CD, and automated testing.
+
+</td>
+</tr>
+</table>
+
+## GitHub activity
 
 <div align="center">
 
-### Open to Opportunities
+<img height="165" alt="GitHub contribution statistics" src="https://github-readme-stats.vercel.app/api?username=Zebishah&show_icons=true&hide_border=true&bg_color=082f24&title_color=c4d568&icon_color=c4d568&text_color=f8f4eb" />
+<img height="165" alt="Most used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zebishah&layout=compact&hide_border=true&bg_color=082f24&title_color=c4d568&text_color=f8f4eb" />
 
-**Full Stack · React · Next.js · Node.js roles** — Remote or Islamabad-based — Contract or Full-time
+</div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0f172a)](https://zohaib-haider-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohaib-haider-390530228/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zebihaider123@gmail.com)
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" />
+<div align="center">
+
+### Have a product to build or an engineering challenge to solve?
+
+**Open to full-stack software engineering, applied AI opportunities, and meaningful product collaborations.**
+
+[**Portfolio**](https://zohaib-haider-portfolio.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/zohaib-haider-390530228/) · [**Email**](mailto:zebihaider123@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:64834e,55:12533d,100:082f24&height=95&section=footer" alt="" />
 
 </div>
